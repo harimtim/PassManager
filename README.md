@@ -4,10 +4,11 @@ PassManager ist ein simples Tool das mit Python und SQLite3 programmiert wurde u
 # Menü
 Das Menü bietet derzeit nur sehr simple Funktionen wie:
 
+```txt
 [1] Speicher neues Passwort
 [2] Zeige alle Passwörter
 [3] Datenbank zurücksetzen
-        
+```      
 
 ## Installation
 Einfach das Repo Clonen oder .zip runterladen und entpacken.
